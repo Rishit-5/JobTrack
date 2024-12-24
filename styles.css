@@ -1,0 +1,12 @@
+.body {
+    font-family: "Poppins", serif;
+    width: 25rem;
+    height: 35rem;
+    background-color: rgba(34, 34, 34, 1);
+    display: flex;
+    justify-content: center;
+}
+  
+h1 {
+    color: blue;
+}
